@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1599229287 source:c:\users\patri\onedrive\desktop\egr\egr 226\lab week 1\dicegame\dicegame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+

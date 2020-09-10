@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1599230639 source:c:\users\patri\onedrive\desktop\egr\egr 226\lab week 1\statslib\lab_1_statslib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stats_lib.h"
+	"stats_lib.c"
+
+1599159049 c:\users\patri\onedrive\desktop\egr\egr 226\lab week 1\statslib\lab_1_statslib\stat_lib.h
+
+1599163298 c:\users\patri\onedrive\desktop\egr\egr 226\lab week 1\statslib\lab_1_statslib\stats_lib.h
+
+1599229732 c:\users\patri\onedrive\desktop\egr\egr 226\lab week 1\statslib\lab_1_statslib\stats_lib.c
+	"stats_lib.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1599163484 c:\users\patri\onedrive\desktop\egr\egr 226\lab week 1\statslib\lab_1_statslib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stats_lib.h"
+	"stats_lib.c"
+
