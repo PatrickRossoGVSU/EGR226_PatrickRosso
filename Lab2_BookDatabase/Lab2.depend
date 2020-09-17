@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600379017 source:c:\users\patri\onedrive\desktop\egr\egr 226\lab week 2\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1600387708 source:c:\users\patri\onedrive\desktop\egr\egr 226\lab week 2\lab2_bookdatabase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
